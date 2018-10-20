@@ -1,0 +1,126 @@
+Please enter the file path : XPath/Input File.txt
+Enter the start city : Arad
+Enter the destination city : Bucharest
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+1
+The traversed path using DFS is : 
+Arad  Zerind  Oradea  Sibiu  Fagaras  Bucharest 
+The total cost of path is :  607
+
+Do you want to really want to exit (Y/N) : n
+Enter the start city : Arad
+Enter the destination city : Bucharest
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+2
+The traversed path using BFS is : 
+Arad  Sibiu  Fagaras  Bucharest 
+The total cost of path is :  450
+
+Do you want to really want to exit (Y/N) : 
+Enter the start city : Arad
+Enter the destination city : Bucharest
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+3
+Please enter the depth till you want to find the nodes : 10
+Soln at depth : 5
+The traversed path using Iterative Deepening is : 
+Arad  Zerind  Oradea  Sibiu  Fagaras  Bucharest 
+The total cost of path is :  607
+
+Do you want to really want to exit (Y/N) : n
+Enter the start city : Sibiu
+Enter the destination city : Eforie
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+1
+The traversed path using DFS is : 
+Sibiu  Oradea  Zerind  Arad  Timisoara  Lugoj  Mehadia  Drobeta  Craiova  Rimnicu-Vilcea  Pitesti  Bucharest  Urziceni  Hirsova  Eforie 
+The total cost of path is :  1404
+
+Do you want to really want to exit (Y/N) : n
+Enter the start city : Sibiu
+Enter the destination city : Eforie
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+2
+The traversed path using BFS is : 
+Sibiu  Fagaras  Bucharest  Urziceni  Hirsova  Eforie 
+The total cost of path is :  579
+
+Do you want to really want to exit (Y/N) : n
+Enter the start city : Sibiu
+Enter the destination city : Eforie
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+3
+Please enter the depth till you want to find the nodes : 10
+Soln at depth : 5
+The traversed path using Iterative Deepening is : 
+Sibiu  Fagaras  Bucharest  Urziceni  Hirsova  Eforie 
+The total cost of path is :  579
+
+Do you want to really want to exit (Y/N) : n
+Enter the start city : Drobeta
+Enter the destination city : Fagaras
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+1
+The traversed path using DFS is : 
+Drobeta  Mehadia  Lugoj  Timisoara  Arad  Zerind  Oradea  Sibiu  Fagaras 
+The total cost of path is :  770
+
+Do you want to really want to exit (Y/N) : n
+Enter the start city : Drobeta
+Enter the destination city : Fagaras
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+2
+The traversed path using BFS is : 
+Drobeta  Craiova  Rimnicu-Vilcea  Sibiu  Fagaras 
+The total cost of path is :  445
+
+Do you want to really want to exit (Y/N) : n
+Enter the start city : Drobeta
+Enter the destination city : Fagaras
+Enter the type of search you wold like to use. 
+ 1. DFS 
+ 2. BFS 
+ 3. Iterative Deepning. 
+ 4. Exit
+3
+Please enter the depth till you want to find the nodes : 10
+Soln at depth : 4
+The traversed path using Iterative Deepening is : 
+Drobeta  Craiova  Rimnicu-Vilcea  Sibiu  Fagaras 
+The total cost of path is :  445
+
+Do you want to really want to exit (Y/N) : y
+
+Process finished with exit code 0
